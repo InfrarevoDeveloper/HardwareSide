@@ -1,1 +1,1 @@
-# hardwareSide
+# HardwareSide
